@@ -156,7 +156,7 @@ reviews_data, _ = reviews(
 
 ### 🔹 Category Distribution Analysis
 
-![Category Chart](https://github.com/Mehak-2005/Multi-Source-Feedback-Intelligence-System_HiDevs/blob/main/output2.png)
+![Category Chart](https://github.com/Mehak-2005/Multi-Source-Feedback-Intelligence-System_HiDevs/blob/main/src/dashboard/output2.png)
 
 ---
 
