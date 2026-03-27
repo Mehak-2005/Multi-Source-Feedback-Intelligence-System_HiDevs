@@ -149,13 +149,8 @@ reviews_data, _ = reviews(
 
 ### 🔹 Feedback Processing & Sentiment Analysis
 
-![Dashboard Overview]()
+![Dashboard Overview](https://github.com/Mehak-2005/Multi-Source-Feedback-Intelligence-System_HiDevs/blob/main/Output1.png)
 
----
-
-### 🔹 Sentiment Distribution Visualization
-
-![Sentiment Chart](screenshots/dashboard2.png)
 
 ---
 
